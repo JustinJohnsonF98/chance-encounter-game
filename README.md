@@ -1,2 +1,17 @@
-Chance Encounter Game
-"You and your friend work at the same company, however you work at two different buildings at the opposite sides of the city. It wasn't clear who is walking to the others offfice, so when its time to clock out you both leave the office and start walking to the other building. What are the chances that you and your friend will bump into eachother."
+# Python Puzzle Game
+
+A simple puzzle game inspired by *A Chance Encounter* from Optiver. This game challenges players to solve logic-based puzzles through an interactive Python interface.
+
+## Features
+- Resizable game window
+- Intuitive user interface
+- Interactive puzzle-solving experience
+- Lightweight and runs on most systems with Python installed
+
+## Requirements
+- Python 3.8 or later  
+- `pygame` library
+
+You can install the required library using:
+```bash
+pip install pygame
